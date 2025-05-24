@@ -17,7 +17,7 @@ A simple browser-based game where you catch falling stars with a basket before t
 3. Start playing immediately - no installation required!
 
 ```bash
-git clone [your-repo-url]
+git clone [https://github.com/RajAryanSoni/Falling-Stars-Game]
 cd catch-the-falling-stars
 # Open index.html in your browser
 ```
